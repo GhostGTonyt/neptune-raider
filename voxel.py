@@ -1,12 +1,11 @@
 #######################################################################
-#           ___                       ______            __            #
-#          /   | __  ___________ _   /_  __/___  ____  / /____        #
-#         / /| |/ / / / ___/ __ `/    / / / __ \/ __ \/ / ___/        #
-#        / ___ / /_/ / /  / /_/ /    / / / /_/ / /_/ / (__  )         #
-#       /_/  |_\__,_/_/   \__,_/    /_/  \____/\____/_/____/          #
-#                       https://auratools.xyz/                        #
-#                    https://discord.gg/auratools                     #
-#                            Neptune Free                             #
+#           __   _______  _____| |  _ __   __ _(_) __| |              #
+#           \ \ / / _ \ \/ / _ \ | | '_ \ / _` | |/ _` |              #
+#            \ V / (_) >  <  __/ | | |_) | (_| | | (_| |              #
+#             \_/ \___/_/\_\___|_| | .__/ \__,_|_|\__,_|              #
+#                                  |_|                                #
+#                    https://www.linktr.ee/voxeldoge                  #
+#                            Voxel Paid                               #
 #######################################################################
               
 from src import *
@@ -26,7 +25,7 @@ from src.skidslookherelol.replyspam import *
 import sys
 
 clear()
-settitle("Neptune [Free] - .gg/auratools")
+settitle("Voxel [Paid] - .gg/CKEbd5pTqZ")
 
 def handler(option):
     actions = {
